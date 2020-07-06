@@ -1,7 +1,6 @@
 # solidity-typescript-template
 
-[![Build Status](https://travis-ci.com/ilyakmet/solidity-typescript-template.svg?branch=master)](https://travis-ci.com/ilyakmet/solidity-typescript-template)
-[![codecov](https://codecov.io/gh/ilyakmet/solidity-typescript-template/branch/master/graph/badge.svg)](https://codecov.io/gh/ilyakmet/solidity-typescript-template)
+[![Build Status](https://travis-ci.com/ilyakmet/uniswap-v2-adapter.svg?branch=master)](https://travis-ci.com/ilyakmet/uniswap-v2-adapter)
 
 ## Developer Tools 🛠️
 
